@@ -1,4 +1,4 @@
 rootProject.name = "kotlinBoard"
 
-include("modules:domain")
-include("applications:api")
+include(":modules:domain")
+include(":applications:api")
